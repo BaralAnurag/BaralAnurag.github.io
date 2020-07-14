@@ -18,6 +18,8 @@ hr {
 }
 hr.light {
   border-color: white;
+  border-width: 3px;
+  max-width: 10px;
 }
 a {
   -webkit-transition: all 0.35s;

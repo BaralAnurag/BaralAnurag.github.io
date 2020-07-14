@@ -48,12 +48,14 @@ blockquote {
     text-shadow: 3px 3px black;
 }
 hr {
-    border-color: #404040;
-    border-width: 3px;
-    max-width: 100px
+    border-color: #ffffff;
+    border-width: 10px;
+    max-width: 500px
 }
 hr.light {
-    border-color: #fff
+    border-color: #ffffff;
+    border-width: 3px;
+    max-width: 100px;
 }
 a {
     transition: all .35s;
